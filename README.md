@@ -2,4 +2,5 @@
 A Python implement of  The Game of Life in GUI with tkinter
 
 ## Build
-``` python setup.py build ```
+* Change 'TCL_LIBRARY' & 'TK_LIBRARY' in [setup.py](setup.py)
+* ``` python setup.py build ```
