@@ -8,7 +8,7 @@ base = None
 
 executables = [Executable("main.py", base=base)]
 
-packages = ["lib"]
+packages = ["gol"]
 options = {
     'build_exe': {    
         'packages': packages,
